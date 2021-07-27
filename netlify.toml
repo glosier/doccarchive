@@ -9,7 +9,7 @@ to = "/index.html"
 [[redirects]]
 from = "/docs/sdk/ios/reference/*"
 status = 200
-to = "/index.html"
+to = "/documentation/"
 
 [[redirects]]
 from = "/tutorials/*"
