@@ -8,7 +8,7 @@ to = "/index.html"
 
 [[redirects]]
 from = "/docs/sdk/ios/reference/*"
-status = 200
+status = 302
 to = "/documentation/"
 
 [[redirects]]
