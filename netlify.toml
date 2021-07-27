@@ -7,6 +7,11 @@ status = 200
 to = "/index.html"
 
 [[redirects]]
+from = "/docs/sdk/ios/reference/*"
+status = 200
+to = "/index.html"
+
+[[redirects]]
 from = "/tutorials/*"
 status = 200
 to = "/index.html"
